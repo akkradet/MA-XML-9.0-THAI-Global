@@ -1,0 +1,29 @@
+ro.build.display.id=MiuiTH
+ro.translation.build=DET
+ro.build.date=@DATE@
+ro.build.date.utc=@DATE_UTC@
+persist.sys.timezone=@TIMEZONE@
+ro.build.user=akkradet
+ro.build.host=akkradet-pc
+ro.build.type=user
+ro.build.tags=release-keys
+
+# Some Configs for DRM
+drm.service.enabled=true
+ro.adb.secure=1
+
+# Default TimeZone
+persist.sys.timezone=Asia/Bangkok
+ro.product.locale=th-TH
+ro.product.locale.language=th
+
+# GoogleDNS
+net.ppp0.dns1=8.8.4.4
+net.ppp0.dns2=8.8.8.8
+net.dns1=8.8.4.4
+net.dns2=8.8.8.8
+
+# No delay in calls
+ro.telephony.call_ring.delay=0
+ring.delay=0
+
