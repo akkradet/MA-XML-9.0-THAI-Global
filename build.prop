@@ -26,5 +26,3 @@ net.dns2=8.8.8.8
 # No delay in calls
 ro.telephony.call_ring.delay=0
 ring.delay=0
-
-#Thai
